@@ -64,6 +64,5 @@ class Toys extends Product
         $this->color = $_color;
         $this->material = $_material;
         $this->tipologia = $_tipologia;
-
     }
 }
